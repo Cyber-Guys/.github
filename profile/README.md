@@ -13,7 +13,7 @@
 | Date | Hackathon | Location | Project | Description | Position | Prize |
 |---|---|---|---|---|:---:|---|
 | Nov 2026 | [IXH26 Italian XRPL Hackathon](https://www.decifris.it/ixh26/) | Bari | [**Ripple Guardian**](https://github.com/Cyber-Guys/ripple-guardian) | Blockchain forensics framework for the XRP Ledger. Owners get plain-language alerts when keys change or funds leave; analysts trace stolen XRP hop by hop to the exchange and destination tag. | 2nd | €1,200 |
-| Oct 2026 | [GreenLab Sardegna Hackathon](https://www.caor.camcom.it/eventi/greenlab-sardegna-hackathon-soluzioni-innovative-monitoraggio-ambientale) | Cagliari | [**Sentinelle**](https://github.com/Cyber-Guys/Sentinelle) | Citizen wildfire reporting for Sardinia: people report fires with a photo and map risk areas, operators get reports already verified and ranked by priority. | 2nd<br>(Challenge 2) | - |
+| Oct 2026 | [GreenLab Sardegna Hackathon](https://www.caor.camcom.it/eventi/greenlab-sardegna-hackathon-soluzioni-innovative-monitoraggio-ambientale) | Cagliari | [**Sentinelle**](https://github.com/Cyber-Guys/Sentinelle) | Citizen wildfire reporting for Sardinia: people report fires with a photo and map risk areas, operators get reports already verified and ranked by priority. | 2nd | - |
 | Jun 2026 | [Code the Continuum, CEI-Sphere](https://ceisphere.eu/events/code-continuum) | Cagliari | [**CoreFleet**](https://github.com/Cyber-Guys/CoreFleet) | Fleet telemetry that switches each car between cloud and edge processing over Eclipse Zenoh, with LLM driver reports from a Jakarta EE service. | 1st (Zenoh)<br>3rd (Jakarta EE) | €750 + €300 |
 
 ## Team
