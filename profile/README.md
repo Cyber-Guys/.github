@@ -19,18 +19,12 @@
 ## Team
 
 <p align="center">
-  <a href="https://github.com/doliv8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/doliv8-dark.png"><img src="assets/team/doliv8-light.png" width="140" alt="doliv8"></picture></a>&nbsp;&nbsp;
-  <a href="https://github.com/uNickz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/uNickz-dark.png"><img src="assets/team/uNickz-light.png" width="140" alt="uNickz"></picture></a>&nbsp;&nbsp;
-  <a href="https://github.com/AndreaCerolini"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/AndreaCerolini-dark.png"><img src="assets/team/AndreaCerolini-light.png" width="140" alt="AndreaCerolini"></picture></a>
+  <a href="https://github.com/doliv8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/doliv8-dark.png"><img src="assets/team/doliv8-light.png" width="140" alt="Diego Oliva (@doliv8)"></picture></a>&nbsp;&nbsp;
+  <a href="https://github.com/uNickz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/uNickz-dark.png"><img src="assets/team/uNickz-light.png" width="140" alt="Nicholas Meli (@uNickz)"></picture></a>&nbsp;&nbsp;
+  <a href="https://github.com/AndreaCerolini"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/AndreaCerolini-dark.png"><img src="assets/team/AndreaCerolini-light.png" width="140" alt="Andrea Cerolini (@AndreaCerolini)"></picture></a>
   <br><br>
-  <a href="https://github.com/DenInDev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/DenInDev-dark.png"><img src="assets/team/DenInDev-light.png" width="140" alt="DenInDev"></picture></a>&nbsp;&nbsp;
-  <a href="https://github.com/NicoXVI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/NicoXVI-dark.png"><img src="assets/team/NicoXVI-light.png" width="140" alt="NicoXVI"></picture></a>&nbsp;&nbsp;
-  <a href="https://github.com/T0mm1-byte"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/T0mm1-byte-dark.png"><img src="assets/team/T0mm1-byte-light.png" width="140" alt="T0mm1-byte"></picture></a>&nbsp;&nbsp;
-  <a href="https://github.com/ale24cocco"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/ale24cocco-dark.png"><img src="assets/team/ale24cocco-light.png" width="140" alt="ale24cocco"></picture></a>
+  <a href="https://github.com/DenInDev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/DenInDev-dark.png"><img src="assets/team/DenInDev-light.png" width="140" alt="Daniele Orrù (@DenInDev)"></picture></a>&nbsp;&nbsp;
+  <a href="https://github.com/NicoXVI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/NicoXVI-dark.png"><img src="assets/team/NicoXVI-light.png" width="140" alt="Nicola Ghisu (@NicoXVI)"></picture></a>&nbsp;&nbsp;
+  <a href="https://github.com/T0mm1-byte"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/T0mm1-byte-dark.png"><img src="assets/team/T0mm1-byte-light.png" width="140" alt="Tommaso Casti (@T0mm1-byte)"></picture></a>&nbsp;&nbsp;
+  <a href="https://github.com/ale24cocco"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/team/ale24cocco-dark.png"><img src="assets/team/ale24cocco-light.png" width="140" alt="Alessandro Cocco (@ale24cocco)"></picture></a>
 </p>
-
-## The logo
-
-<img src="assets/logo.png" width="80" align="right" alt="Flagged logo">
-
-A nuraghe, the 3,500-year-old Sardinian fortress, with a flag planted on top: the fortress has been taken and the flag is captured. The six stone courses also read as lines of code.
